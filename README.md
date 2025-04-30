@@ -9,7 +9,7 @@ A Java-based AI-powered assistant that intelligently handles email communication
 - Secure user authentication and data handling
 - Modular architecture for easy integration with external services
 
-## 🛠 Tech Stack
+## Tech Stack
 
 - **Backend:** Java, Spring Boot
 - **AI Layer:** Python (optional model API), OpenCV (if required for OCR)
@@ -18,9 +18,8 @@ A Java-based AI-powered assistant that intelligently handles email communication
 
 
 ## Future Enhancements
-Smart scheduling and calendar integration
-Voice-command support
-Personalized response templates
+-Smart scheduling and calendar integration
+-Voice-command support
+-Personalized response templates
 
-👨‍💻 Author
-This project is part of a technical portfolio to demonstrate skills in Java, Spring Boot, and AI integration.
+
